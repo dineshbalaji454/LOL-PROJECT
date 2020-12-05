@@ -1,0 +1,29 @@
+Trait="Emperor"
+
+	
+Class = "The Emperor deploys with two Sand Guards who can be placed anywhere on the battlefield. They do not move or attack, and die when their Emperor does."
+
+
+Cost = 5
+
+Health = [950,11710,3078]
+
+Mana = 150
+
+Starting _Mana =75
+
+Armor = 30
+
+Manna_Regeneration = 20
+
+Damage_Per_Second = [60,107,193]
+
+Damage = [70,126,227]
+
+Attack_Speed = 0.85
+
+#critical srike should be taken in percentage
+#the CS value
+Critical_Rate = 25%
+
+Range = 4

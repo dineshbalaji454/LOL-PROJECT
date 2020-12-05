@@ -1,0 +1,32 @@
+Trait="Elderwood"
+
+	
+Origin = "Every two seconds all Elderwood champions grow, gaining bonus stats. This effect stacks up to five times.
+3.15 Armor and Magic Resist, 5 Attack Damage and Spell Power,
+6.25 Armor and Magic Resist, 10 Attack Damage and Spell Power,
+9.40 Armor and Magic Resist, 20 Attack Damage and Spell Power."
+
+
+Cost = 2
+
+Health = [500,900,1620]
+
+Mana = 120
+
+Starting _Mana =60
+
+Armor = 20
+
+Manna_Regeneration = 20
+
+Damage_Per_Second = [30,54,97]
+
+Damage = [50,90,162]
+
+Attack_Speed = 0.6
+
+#critical srike should be taken in percentage
+#the CS value
+Critical_Rate = 25
+
+Range = 3

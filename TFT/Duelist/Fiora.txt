@@ -1,0 +1,33 @@
+Trait="Duelist"
+
+	
+Class = "Innate: Duelists gain bonus Movement Speed. Duelists' attacks grant Attack Speed, up to 8 stacks.
+2.12% Attack Speed per Stack,
+4.20% Attack Speed per Stack,
+6.35% Attack Speed per Stack,
+8.60% Attack Speed per Stack."
+
+
+Cost = 1
+
+Health = [600,1080,1944]
+
+Mana = 85
+
+Starting _Mana =0
+
+Armor = 35
+S
+Manna_Regeneration = 30
+
+Damage_Per_Second = [34,61,109]
+
+Damage = [45,81,146]
+
+Attack_Speed = 0.75
+
+#critical srike should be taken in percentage
+#the CS value
+Critical_Rate = 25
+
+Range = 1

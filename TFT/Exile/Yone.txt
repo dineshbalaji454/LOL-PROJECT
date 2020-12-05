@@ -1,0 +1,31 @@
+Trait="Exile"
+
+	
+Origin = "If an Exile has no adjacent allies at the start of combat, they gain:
+1.Shield equal to 50% of their maximum health,
+2.And 80% Lifesteal."
+
+
+Cost = 5
+
+Health = [950,1710,3078]
+
+Mana = 60
+
+Starting _Mana =0
+
+Armor = 40
+
+Manna_Regeneration = 40
+
+Damage_Per_Second = [76,137,246]
+
+Damage = [80,144,259]
+
+Attack_Speed = 0.95
+
+#critical srike should be taken in percentage
+#the CS value
+Critical_Rate = 25
+
+Range = 1

@@ -1,0 +1,32 @@
+Trait="Enlightened"
+
+	
+Origin = "Enlightened champions generate more Mana.
+2.40% Additional Mana,
+4.70% Additional Mana,
+6.100% Additional Mana."
+
+
+Cost = 2
+
+Health = [550,990,1782]
+
+Mana = 60
+
+Starting _Mana =30
+
+Armor = 20
+
+Manna_Regeneration = 20
+
+Damage_Per_Second = [24,43,78]
+
+Damage = [40,72,130]
+
+Attack_Speed = 0.6
+
+#critical srike should be taken in percentage
+#the CS value
+Critical_Rate = 25
+
+Range = 4

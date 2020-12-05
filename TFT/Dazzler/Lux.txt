@@ -1,0 +1,31 @@
+Trait="Dazzler"
+
+	
+Class = "Dazzler's spells reduce their target's Attack Damage for 8 seconds.
+2.40% Attack Damage Reduction,
+4.80% Attack Damage Reduction."
+
+
+Cost = 3
+
+Health = [600,1080,1944]
+
+Mana = 100
+
+Starting _Mana =50
+
+Armor = 20
+
+Manna_Regeneration = 20
+
+Damage_Per_Second = [28,50,91]
+
+Damage = [40,72,130]
+
+Attack_Speed = 0.7
+
+#critical srike should be taken in percentage
+#the CS value
+Critical_Rate = 25
+
+Range = 4
